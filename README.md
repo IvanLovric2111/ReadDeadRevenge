@@ -44,4 +44,4 @@
 * Ivan Lovrić
 
 ---
-This project was developed as a seminar paper at the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB), University of Split.
+*This project was developed as a seminar paper at the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB), University of Split.*
